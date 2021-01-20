@@ -1,6 +1,6 @@
 # pageLog : 수능 카운터
 
-[데모 페이지](https://icecream0910.github.io/pagelog/)
+[데모 페이지](https://icecream0910.github.io/pageLog/)
 
 참고 : [hellopage.today](https://github.com/Juneyoung-Kang/hellopage.today)
 
