@@ -1,8 +1,8 @@
 /* Load Target Sat */
-var sat = 'Oct 3, 2020 09:10:00';
+var sat = 'Nov 18, 2021 09:10:00';
 
 var now = new Date().getTime();
-var year = 2020;
+var year = 2021;
 
 while (new Date(sat).getTime() - now < 0) {
   year = year + 1;
