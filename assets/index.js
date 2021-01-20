@@ -15,15 +15,3 @@ if (backgroundData['license']['name'] == '') {
     document.getElementById('footer').innerHTML = footer + '</a></p>'
 } else {
     document.getElementById('footer').innerHTML = footer + ' (' + backgroundData['license']['name'] + ')</a></p>'}
-
-
-var filter = "win16|win32|win64|mac|macintel";
-if ( navigator.platform ) {
-if ( filter.indexOf( navigator.platform.toLowerCase() ) < 0 ) {
-//모바일 접속
-} else {
-//pc접속
-window.open('','_self').close();
-window.open('mobileOnly.html');
-}
-}
