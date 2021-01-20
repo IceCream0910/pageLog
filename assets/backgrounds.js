@@ -155,19 +155,6 @@ backgrounds = [
             "source" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fyunpark.tistory.com%2F70&psig=AOvVaw3ec2tDLmH3ML76cQRYSOZ2&ust=1595399707011000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCLCvrq7d3eoCFQAAAAAdAAAAABAD",
             "cdn" : "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2671BB3F5729F87713"
         }
-    },
-    {
-        "name" : "건국대학교",
-        "author" : "Unsplash",
-        "license" : {
-            "name" : "",
-            "url" : "https://unsplash.com/license"
-        },
-        "url" : "https://s3.orbi.kr/data/file/united2/7cfb2289-6436-4dc9-872a-30d81d2ec7f02.jpg",
-        "origin" : {
-            "source" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Forbi.kr%2F00022946242%2F%255B%25EA%25B1%25B4%25EB%258C%2580%255D%25EA%25B1%25B4%25EA%25B5%25AD%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590-%25EC%2595%25BC%25EA%25B2%25BD-%25ED%2581%25B4%25EB%259D%25BC%25EC%258A%25A4-%25E3%2584%25B7%25E3%2584%25B7%3Ftype%3Dhot&psig=AOvVaw39F4vNeSyX1khA1p32rNjx&ust=1595399788475000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNiKh7be3eoCFQAAAAAdAAAAABAD",
-            "cdn" : "https://s3.orbi.kr/data/file/united2/7cfb2289-6436-4dc9-872a-30d81d2ec7f02.jpg"
-        }
     },/*,
     {
         "name" : "",
