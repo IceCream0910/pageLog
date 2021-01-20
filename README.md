@@ -1,7 +1,6 @@
 # pageLog : 수능 카운터
 
-## 개요
-![](./sample.png)
+[데모 페이지](https://icecream0910.github.io/pagelog/)
 참고 : [hellopage.today](https://github.com/Juneyoung-Kang/hellopage.today)
 
 ## 기여 가이드
